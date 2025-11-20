@@ -1,16 +1,27 @@
-## Hi there 👋
+# Didattica a scuola
 
-<!--
-**francobelloni85/francobelloni85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sito dei Notebook LM creati dalle spiegazioni in classe: https://francobelloni85.github.io/
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Repository personali
+
+Raccolta di alcuni progetti utili che ho sviluppato.
+
+### - corso_base_programmazione
+Primi programmi in Python realizzati per introdurre gli studenti alla logica di base.
+
+
+### - Multi-Site-FTP-Uploader
+Applicazione .NET per automatizzare l’upload verso più server FTP in parallelo.  
+Strumento pensato per chi gestisce più siti e necessita di distribuzione rapida dello stesso contenuto.
+
+
+### - noisy_pomodoro
+Supporto alla tecnica del pomodoro con rilevamento del rumore in classe.  
+Serve per mantenere l’aula in condizioni di lavoro stabili durante attività strutturate.
+
+
+### - LockUnlockTester
+Utility per trasformare un PC in modalità kiosk.  
+Blocca gli input esterni e impedisce manipolazioni non autorizzate durante l’utilizzo controllato del dispositivo.
