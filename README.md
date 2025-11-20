@@ -1,27 +1,26 @@
-# Didattica a scuola
-
-Sito dei Notebook LM creati dalle spiegazioni in classe: https://francobelloni85.github.io/
-
----
-
-# Repository personali
-
-Raccolta di alcuni progetti utili che ho sviluppato.
-
-### - corso_base_programmazione
-Primi programmi in Python realizzati per introdurre gli studenti alla logica di base.
+## Bio
+Docente di Informatica. Sviluppo materiali strutturati, strumenti per la didattica e piccole utility operative. Organizzo contenuti in modo chiaro e riutilizzabile.
 
 
-### - Multi-Site-FTP-Uploader
-Applicazione .NET per automatizzare l’upload verso più server FTP in parallelo.  
-Strumento pensato per chi gestisce più siti e necessita di distribuzione rapida dello stesso contenuto.
+
+## Didattica
+Sito dei Notebook LM derivati dalle spiegazioni in classe:  https://francobelloni85.github.io/
 
 
-### - noisy_pomodoro
-Supporto alla tecnica del pomodoro con rilevamento del rumore in classe.  
-Serve per mantenere l’aula in condizioni di lavoro stabili durante attività strutturate.
 
+## Programmi
+### corso_base_programmazione
+- esercizi Python introduttivi  
+- logica di base e controllo del flusso
 
-### - LockUnlockTester
-Utility per trasformare un PC in modalità kiosk.  
-Blocca gli input esterni e impedisce manipolazioni non autorizzate durante l’utilizzo controllato del dispositivo.
+### Multi-Site-FTP-Uploader
+- applicazione .NET  
+- upload parallelo su più FTP
+
+### noisy_pomodoro
+- timer a intervalli  
+- rilevamento rumore per gestione aula
+
+### LockUnlockTester
+- modalità kiosk per Windows  
+- blocco input esterni
